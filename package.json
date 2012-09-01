@@ -1,6 +1,6 @@
 {
     "name": "grunt-cp",
-    "description": "A Grunt plugin for moving files",
+    "description": "A Grunt plugin for copying directories (recursively)",
     "version": "0.1.0",
     "homepage": "https://github.com/c4urself/grunt-cp",
     "author": {

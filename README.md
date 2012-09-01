@@ -23,7 +23,7 @@ grunt.initConfig({
   // ... other configs
 
   // copy media
-  mv: {
+  cp: {
     media: {
       src: 'public/media',
       dest: 'dist/media'

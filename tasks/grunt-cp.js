@@ -1,5 +1,5 @@
 /*
- * grunt-mv
+ * grunt-cp
  * https://github.com/c4urself/grunt-mv
  *
  * Copyright (c) 2012 Christian Verkerk
@@ -17,10 +17,8 @@ module.exports = function(grunt) {
     // ==========================================================================
 
     grunt.registerMultiTask('cp', 'Copies files recursively from one directory to another.', function () {
-        console.log(this.data);
-        console.log(this.target);
         if (!this.data) {return false; }
-        // mv: {
+        // cp: {
         //   media: {
         //     src: '/public/media',
         //     dest: '/dist/media'
