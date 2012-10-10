@@ -1,3 +1,12 @@
+# This plugin is now deprecated.
+
+
+## Please checkout the community-supported [grunt-contrib-copy](https://github.com/gruntjs/grunt-contrib-copy/) instead.
+  
+  
+  
+  
+  
 # grunt-cp
 
 Copies files (recursively)
